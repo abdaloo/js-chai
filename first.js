@@ -1,0 +1,1 @@
+document.getElementById("html").innerHTML = "HTML and CSS";
